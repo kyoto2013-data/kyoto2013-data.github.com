@@ -1,4 +1,4 @@
-"category" "category_id" "subcategory" "subcategory_id" "amount year"
+"category" "category_id" "subcategory" "subcategory_id" "amount" "year"
 "社会福祉費" 1 "保健福祉費" 1 2.72858E+11 2013
 "保険衛生費" 2 "保健福祉費" 2 20996209000 2013
 "保険衛生費" 2 "環境費" 3 27416000000 2013
