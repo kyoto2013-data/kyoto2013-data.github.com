@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'kyotocity2013budget';
+OpenSpending.identifier = 'kyotocity2013budget ';
 OpenSpending.year = '2013';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
