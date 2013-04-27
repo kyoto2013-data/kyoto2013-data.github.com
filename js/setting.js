@@ -44,5 +44,5 @@ OpenSpending.Styles.Cofog = {
   '2013-0704': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
   '2013-0705': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
 
-  '2013-0801': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
+  '2013-0801': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' }
 };
