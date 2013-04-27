@@ -273,4 +273,3 @@ OpenSpending.renderDependentTypes = function(db) {
 }
 
 })(jQuery)
-
