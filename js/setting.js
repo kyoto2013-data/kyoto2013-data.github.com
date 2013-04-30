@@ -18,10 +18,10 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* SKyoto City cofog */
-	'1': { icon: 'icons/helping-others.svg', color: '#cc6600', bcolor: '#935B3B' },
-	'2013-0101': { icon: 'icons/helping-others.svg', color: '#cc6600', bcolor: '#935B3B'},
+	'1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#cc6600' },
+	'2013-0101': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#cc6600'},
 	
-	'2': { icon: 'icons/health.svg', color: '#cc6600', bcolor: '#4E6D00' },
+	'2': { icon: 'icons/health.svg', color: '#cc6600', bcolor: '#cc6600' },
 	'2013-0201': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#4E6D00' },
 	'2013-0202': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#D33673' },
 	
@@ -51,6 +51,6 @@ OpenSpending.Styles.Cofog = {
 	      '2013-0703': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#938626' },
 	        '2013-0704': { icon: 'icons/research.svg', color: '#C75746', bcolor: '#938626' },
 	          '2013-0705': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#938626' },
-	  '8': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#C75746' },
-	  '2013-0801': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#C75746' }
+	  '8': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#cc6600' },
+	  '2013-0801': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#cc6600' }
 };
