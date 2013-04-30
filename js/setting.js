@@ -17,38 +17,40 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
-  /* Sendai/Miyagi cofog */
-	'1': { icon: 'icons/government-uk.svg',  color: '#32CD32', bcolor: '#DCDCDC' },
-	'2013-0101': { icon: 'icons/government-uk.svg',  color: '#32CD32', bcolor: '#DCDCDC' },
+  /* SKyoto City cofog */
+	'1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+	'2013-0101': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B'},
 	
-	 '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
-	  '2013-0201': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
-	  '2013-0202': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-	  '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
-	  '2013-0301': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
-	  '2013-0302': { icon: 'icons/harbor.svg', color: '#C75746', bcolor: '#4E6D00' },
+	'2': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#4E6D00' },
+	'2013-0201': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#4E6D00' },
+	'2013-0202': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#D33673' },
+	
+	'3': { icon: 'icons/manufactoring-construction.svg', color: '#C75746', bcolor: '#4E6D00' },
+	
+	  '2013-0301': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
+	  '2013-0302': { icon: 'icons/forest.svg', color: '#C75746', bcolor: '#4E6D00' },
 
-	  '4': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
-	  '2013-0401': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
-	  '2013-0402': { icon: 'icons/street-lights.svg', color: '#C75746', bcolor: '#D33673' },
-	  '2013-0403': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
-	  '2013-0404': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
-	  
-	  '5': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' },
-	  '2013-0501': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
-	  '2013-0502': { icon: 'icons/wind.svg', color: '#C75746', bcolor: '#2A3A03'  },
-	  '2013-0503': { icon: 'icons/wind.svg', color: '#C75746', bcolor: '#2A3A03'  },
-	  
-	  '6': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-	  '2013-0601': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-	  '2013-0602': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-	  
-	  '7': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-	  '2013-0701': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-	    '2013-0702': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-	      '2013-0703': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-	        '2013-0704': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-	          '2013-0705': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-	  '8': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
-	  '2013-0801': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#C75746' },
+	  '4': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
+	  '2013-0401': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#D33673' },
+	  '2013-0402': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
+	  '2013-0403': { icon: 'icons/construction.svg', color: '#C75746', bcolor: '#D33673' },
+	  '2013-0404': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#D33673' },
+
+	  '5': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#2A3A03' },
+	  '2013-0501': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#2A3A03'  },
+	  '2013-0502': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#2A3A03'  },
+	  '2013-0503': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#2A3A03'  },
+
+	  '6': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#EC2406' },
+	  '2013-0601': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#EC2406' },
+	  '2013-0602': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#EC2406' },
+
+	  '7': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#938626' },
+	  '2013-0701': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#938626' },
+	    '2013-0702': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#938626' },
+	      '2013-0703': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#938626' },
+	        '2013-0704': { icon: 'icons/research.svg', color: '#C75746', bcolor: '#938626' },
+	          '2013-0705': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#938626' },
+	  '8': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#C75746' },
+	  '2013-0801': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#C75746' }
 };
