@@ -17,7 +17,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
-  /* SKyoto City cofog */
+  /* Kyoto City cofog */
 	'1': { icon: 'icons/helping-others.svg', color: '#68365E', bcolor: '#cc6600' },
 	'2013-0101': { icon: 'icons/helping-others.svg', color: '#68365E', bcolor: '#cc6600'},
 	
@@ -53,4 +53,5 @@ OpenSpending.Styles.Cofog = {
 	          '2013-0705': { icon: 'icons/economic-aid.svg', color: '#68365E', bcolor: '#938626' },
 	  '8': { icon: 'icons/financial-admin.svg', color: '#68365E', bcolor: '#cc6600' },
 	  '2013-0801': { icon: 'icons/financial-admin.svg', color: '#68365E', bcolor: '#cc6600' }
+	  
 };
