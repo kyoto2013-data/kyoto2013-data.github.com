@@ -307,4 +307,4 @@ var OpenSpending = OpenSpending || {};
     self.getTree();
   };
 
-}(jQuery));
+}(jQuery))
