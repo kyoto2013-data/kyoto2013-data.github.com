@@ -18,7 +18,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* Kyoto City cofog */
-	'1': { icon: 'icons/civilian-action.svg', color: '#68365E', bcolor: '#EBC892' },
+	'1': { icon: 'icons/helping-others.svg', color: '#68365E', bcolor: '#EBC892' },
 	'2013-0101': { icon: 'icons/helping-others.svg', color: '#68365E', bcolor: '#EBC888'},
 	
 	'2': { icon: 'icons/health.svg', color: '#68365E', bcolor: '#cc6600' },
