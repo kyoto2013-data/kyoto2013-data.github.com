@@ -14,7 +14,7 @@ OpenSpending.identifier = 'kyotocity2013budget';
 OpenSpending.year = '2013';
 */
 
-OpenSpending.identifier = '2014KyotoCityBudget';
+OpenSpending.identifier = 'KyotoCity2014Budget';
 OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
