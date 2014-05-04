@@ -9,14 +9,14 @@ Taxes.huyoKoujo = 330000; // 一人分の扶養控除
 Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
-/*
+
 OpenSpending.identifier = 'kyotocity2013budget';
 OpenSpending.year = '2013';
-*/
 
+/*
 OpenSpending.identifier = 'KyotoCity2014Budget';
 OpenSpending.year = '2014';
-
+*/
 OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
